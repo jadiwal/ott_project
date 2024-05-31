@@ -16,6 +16,7 @@ import {
   Col
 } from "reactstrap";
 // core components
+// Deepak
 import {
   dashboard24HoursPerformanceChart,
   // dashboardEmailStatisticsChart,
